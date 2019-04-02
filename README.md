@@ -1,8 +1,10 @@
 ## Pre-requisite
 
 $ brew install opencv
+
 $ ln -s /usr/local/Cellar/opencv/3.4.3/lib/python3.7/site-packages/cv2.cpython-37m-darwin.so cv2.so
- ==> create symbolic link to local directory
+
+==> create symbolic link to local directory
 
 ## Usage
 
